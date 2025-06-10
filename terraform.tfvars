@@ -1,5 +1,5 @@
 
-project_id      = "dbdemotraining"
+project_id      = "demoprojectdb-461805"
 gcp_sa_key_path = "gcp-sa-key.json"
 zone            = "europe-west3-a"
 
